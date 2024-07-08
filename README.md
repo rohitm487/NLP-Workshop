@@ -3,8 +3,10 @@
 - Transfer Learning
   - https://colab.research.google.com/drive/1FmglCix-R2j43KHgba1YdW0UPtwOmQlr?usp=sharing 
 - Basic Natural Language Processing (NLP)
+  - https://docs.google.com/presentation/d/13gGtXtQczmJbrcpHZEIXxHN4uU2DQ8TNMPCxCoSEzA0/edit?usp=sharing
   - https://colab.research.google.com/drive/10o5l3-xH0CxDjEB2jdZGAexO-pl6entt?usp=sharing
 - Transformer implementation using PyTorch
+  - https://docs.google.com/presentation/d/1daW4XPhF360F83ljouRGob7g9Wy9RLfejsWsU0P9Ou8/edit?usp=sharing
   - https://colab.research.google.com/drive/1yqAHDr41Bo-FwHbi03mNis93USJb9f9L?usp=sharing
 - Fine-tuning Large Language Models (LLMs)
   - https://colab.research.google.com/drive/1KE_eI8kKuYk0Lyd3rWDRTgJ2smPEC-l5?usp=sharing
